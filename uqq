@@ -1,0 +1,139 @@
+[33mcommit 6aee396a5dea4a2711ea6f92f5865ab9d443267d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a7c14d6 b22c04d
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 11:12:50 2019 +0530
+
+    Merge branch 'feature'
+
+[33mcommit a7c14d64052860dfe4de7ead59fad9a6bec7504a[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 11:11:32 2019 +0530
+
+    m
+
+[33mcommit b22c04da5dc544da241a2794c3621314f32d4305[m[33m ([m[1;32mfeature[m[33m)[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 11:10:57 2019 +0530
+
+    m
+
+[33mcommit f0c59e71614dfbb68fb290891f979ec05dffa0d3[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 11:03:17 2019 +0530
+
+    m
+
+[33mcommit 901a995130d0d18ccd64e25f2f65502d8c5516d4[m[33m ([m[1;31morigin/release[m[33m, [m[1;31morigin/development[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 10:30:14 2019 +0530
+
+    m
+
+[33mcommit a89f56bcf6108ae7dbda198d0e304f30ca3bf1fb[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 10:19:42 2019 +0530
+
+    m
+
+[33mcommit d3620bf81165417da709fb466a8ee9d72f0b0536[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Fri Feb 8 10:13:55 2019 +0530
+
+    message
+
+[33mcommit c0ef4911312c3ed4f5f6984f8a6a189c9a7e8a6a[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 11:06:27 2019 +0530
+
+    reverting message
+    
+    This reverts commit 29a8756884535c36231bed39cfc41da48311cfd4.
+
+[33mcommit 29a8756884535c36231bed39cfc41da48311cfd4[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 11:04:35 2019 +0530
+
+    m
+
+[33mcommit 61b974311924c088557d77a933dc3dcf93d46381[m
+Merge: 737ae74 616997a
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:48:55 2019 +0530
+
+    m
+
+[33mcommit 737ae74f99758c2a618bf5c564cb25b2aae88ddc[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:46:51 2019 +0530
+
+    m
+
+[33mcommit 616997a903905e3522c2583b5a082f14da74b52a[m
+Author: MP Techno Solutions <41568630+devops-mptech@users.noreply.github.com>
+Date:   Thu Feb 7 10:45:24 2019 +0530
+
+    Update welcome.txt
+
+[33mcommit 8e455bb3ade02d7298af7d28eb2aa04273be4059[m
+Merge: b687306 fde80bc
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:43:04 2019 +0530
+
+    m
+
+[33mcommit b687306bf05dc81598697c734be04dce97fc8c67[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:39:45 2019 +0530
+
+    m
+
+[33mcommit fde80bca11f360e0b2f75eb00c8a6bcc4a2c0f3a[m
+Author: MP Techno Solutions <41568630+devops-mptech@users.noreply.github.com>
+Date:   Thu Feb 7 10:38:51 2019 +0530
+
+    Update welcome.txt
+
+[33mcommit 9e6094605079a2f071b70a9f9b9b592992c14264[m
+Merge: a9eb85c 30c2ad8
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:28:15 2019 +0530
+
+    this is merge Merge branch 'master' of https://github.com/devops-mptech/DemoProject
+
+[33mcommit a9eb85c21eef007e596ce80fb4ea329e1606bd1e[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:26:56 2019 +0530
+
+    this is pull demo
+
+[33mcommit 30c2ad8fab939830dbf1161fe60585215664d472[m
+Author: MP Techno Solutions <41568630+devops-mptech@users.noreply.github.com>
+Date:   Thu Feb 7 10:26:01 2019 +0530
+
+    Update app.txt
+    
+    pull demo
+
+[33mcommit 8d0206792e8e5528bb3080c59e59697e63e8a220[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Thu Feb 7 10:16:14 2019 +0530
+
+    git demo
+
+[33mcommit 6b30f59df21d630e3e58e08c7964e57fb4106a42[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Wed Feb 6 11:20:28 2019 +0530
+
+    message
+
+[33mcommit d64084389245d62d36f5003812c4a7cbcfae0214[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Wed Feb 6 11:04:05 2019 +0530
+
+    m
+
+[33mcommit d995e01d8ea5e04085d082405cf83c28f9fd2ed3[m
+Author: suresh1 <suresh1@gmail.com>
+Date:   Wed Feb 6 10:58:31 2019 +0530
+
+    just for demo
